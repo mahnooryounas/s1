@@ -1,1 +1,1 @@
-<?php include("./sessional1.html") ?>
+<?php include("./S1.html") ?>
